@@ -19,12 +19,13 @@ Ele simula um modelo básico de rede social, permitindo criar posts, adicionar c
 
 ---
 
+## 🔹 Classes e Pacotes
 
-### 🔹 Classes e Pacotes
-
-- **Post** → Representa um post com título, conteúdo, data, curtidas e lista de comentários.  
-- **Comentario** → Representa um comentário simples com texto.  
-- **ProgramaPrincipal** → Classe principal que cria posts, adiciona comentários e imprime tudo no terminal.
+| Classe / Pacote | Descrição |
+|-----------------|-----------|
+| `Post` | Representa um post com título, conteúdo, data, número de curtidas e uma lista de comentários. |
+| `Comentario` | Representa um comentário simples com texto associado a um post. |
+| `ProgramaPrincipal` | Classe principal que cria posts, adiciona comentários e imprime todas as informações no terminal. |
 
 ---
 
